@@ -40,7 +40,7 @@ takes this prefix from the user before doing the anonymization).
 ## Requirements
 To run this application, make sure the following are installed:
 
-[requirements.txt](https://github.com/ziad0nassif/dicom-viewer/blob/aa7673bd20e850fff0c1bbe622816fe62b351d4d/requirements.txt) 
+[requirements.txt](https://github.com/ziad0nassif/image-quality-viewer/blob/f24ab222ba4ecc3c1c73b18a9b2f8119fb814c56/requirements.txt) 
 
 
 
